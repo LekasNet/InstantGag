@@ -3,9 +3,8 @@ Project about Russian Instagramm. I started this project, cause Original Inst is
 It's not a single project from professional. I'm suck at programming, and it's my training.
 
 # Commit Comment Parameters #
-###### Example: UWBH-0000001 v0.0.0.1
-
 ## Syntaxis:
+###### Example: UWBH-0000001 v0.0.0.1
     git commit -m "v<Vd> <1p><2p><3p><4p>-<Vp>  "  
 ## Meaning:
     name: Name or Tag of commit (what is it about).
