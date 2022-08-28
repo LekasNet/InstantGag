@@ -20,9 +20,11 @@ It's not a single project from professional. I'm suck at programming, and it's m
     
     2p: W/N - Working/Not_working - Do all parts of the commit work or does something need time to finalize.
     
-    3p: P/B/T - Release/Beta/Test - Project, when this feature is going to be merged to the project; Beta, when programmer 
-        testing feature, that will be merged into the project, but don't know, has the time come; 
-        Test - is about features, that programmer want to save, but doesn't know if  this part will ever be in the project.
+    3p: P/B/T - Release/Beta/Test - Project, when this feature is going to be merged to the project;   
+        Beta, when programmer testing feature, that will be merged into the project, 
+        but don't know, has the time come; 
+        Test - is about features, that programmer want to save, but doesn't know if  this part will  
+        ever be in the project.
     
     4p: O/N/L/M/H/F - 0-dont touch/Not interested/Low/Medium/High/Full concentrate
   
